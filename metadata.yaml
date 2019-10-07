@@ -1,0 +1,30 @@
+_repo: Thomas-Reid_60399
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fraser, Alexander Campbell
+    aliases:
+    - Fraser, A. Campbell (Alexander Campbell)
+    - Fraser, A. C. (Alexander Campbell)
+    birthdate: 1819
+    deathdate: 1914
+    gutenberg_agent_id: '36079'
+    url: http://www.gutenberg.org/2009/agents/36079
+    wikipedia: https://en.wikipedia.org/wiki/Alexander_Campbell_Fraser
+description: ''
+gutenberg_issued: '2019-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60399'
+  lccn: 03012925
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Famous Scots series
+subjects:
+- !lcc 'B'
+- !lcsh 'Reid, Thomas, 1710-1796'
+- GITenberg
+title: Thomas Reid
+url: http://www.gutenberg.org/ebooks/60399
